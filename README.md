@@ -1,2 +1,2 @@
-# ds_plat
+# lit-mlops
 Light weight MLOPs platform
